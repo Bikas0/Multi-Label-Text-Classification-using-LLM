@@ -8,9 +8,11 @@ This project implements a multi-label text classification system using a Large L
 <b>Scalable and Flexible:</b> Easily adaptable to different datasets and classification tasks with minimal modifications.<br>
 
 <h2> Model Accuracy</h2>
+
 ![1](https://github.com/Bikas0/Multi-Label-Text-Classification-using-LLM/assets/66817101/bc004ec0-7ab2-431f-8523-dadd55e9ee8e) 
-<br>
+
 
 <h2>Precision, Recall & F1-Score</h2>
+
 ![2](https://github.com/Bikas0/Multi-Label-Text-Classification-using-LLM/assets/66817101/fea42b7f-88d2-4485-ade8-05d7417e8f6b)
 
